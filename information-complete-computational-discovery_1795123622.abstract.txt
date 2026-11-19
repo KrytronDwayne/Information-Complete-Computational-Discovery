@@ -1,0 +1,15 @@
+NOTICE: Copyright 2026 Krytronx, LLC. Research: CC BY 4.0. Embedded code: AGPL-3.0-only.
+LICENSE: CC-BY-4.0; https://creativecommons.org/licenses/by/4.0/
+CODE_LICENSE: Embedded program source: AGPL-3.0-only; https://www.gnu.org/licenses/agpl-3.0.html
+TITLE: Information-Complete Computational Discovery
+PAPER_ID: KX-ICCDE-2026-001
+AUTHORS: P. Dwayne Esterline
+PRINCIPAL_INVESTIGATOR_ACADEMIC_CREDENTIALS: Bachelor of Science in Organizational Management, Huntington University, 1999 (Highest honors); Master of Business Administration in Management and Accounting, Indiana Wesleyan University, 2008
+ORGANIZATION: Krytronx, LLC
+RESEARCH_PROGRAM: Quantum K-Field
+RELEASE_EPOCH: 1795123622
+GENERATED_AT_UTC: 2026-11-19T21:27:02Z
+KEYWORDS: K-Field; computational discovery; residual information; identifiability; exact rank; spectral moments; probe design; reproducibility
+ABSTRACT_BEGIN
+Scientific discovery depends on retaining the distinctions that a model has not yet explained. We formulate the Information-Complete Computational Discovery Engine (ICCDE), a general methodology reconstructed from the K-Field corpus and expressed as an auditable sequence of structural certification, matched contrasts, frozen transfer, residual decomposition, inverse inference, and probe design. Information completeness is defined operationally as recoverability of the retained measurement record and its transformations. Five layers separate registry, metric, dynamics, readout, and inference. A linear residual-to-probe result distinguishes discrepancies that parameter changes can absorb from consistency coordinates that they cannot alter, and gives the exact number of unresolved directions removed by an added probe. Independent finite calculations reproduce the 27-node Cell3 registry, 49 endpoint relations, a 30-dimensional cycle space, and a four-dimensional affine midpoint kernel. Thirteen reciprocal measurements resolve six metric parameters while retaining seven consistency dimensions. A single-family perturbation produces an exact consistency norm squared of 4/525 in the declared units. Spectral moments recover the weighted relative inverse-gap variance 48/169 in a two-gap example. Schur reduction preserves hidden-state normalization, while a dynamic readout example shows how an instantaneously invisible state becomes observable. Twenty-seven computational checks accompany proofs, counterexamples, signed residual fields, and executable reconstruction code. The contribution is a reproducible discovery method that turns unresolved structure into constrained experimental questions, with explicit boundaries between mathematical identity, computational demonstration, and physical mechanism.
+ABSTRACT_END
